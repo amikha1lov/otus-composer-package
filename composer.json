@@ -1,0 +1,17 @@
+{
+    "name": "amikha1lov/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amikha1lov\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexeyMikhailov"
+        }
+    ],
+    "require": {
+        "php": ">=8.1.0"
+    }
+}

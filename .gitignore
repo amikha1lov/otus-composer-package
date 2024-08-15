@@ -1,0 +1,9 @@
+_docker
+vendor
+composer.lock
+index.php
+Makefile
+
+.idea
+*.iml
+
