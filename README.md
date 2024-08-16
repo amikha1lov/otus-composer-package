@@ -1,7 +1,7 @@
 # Hello World
 Выводит фразу "Hello From Composer Package"
 ## Требования
-- PHP >= 8.1
+- PHP >= 7.4
 ## Установка
 ```bash
 composer require amikha1lov/otus-composer-package
